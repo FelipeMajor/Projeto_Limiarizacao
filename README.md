@@ -110,7 +110,7 @@ Foram utilizados três exemplos diferentes (pessoas e objetos coloridos).
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/FelipeMajor/Projeto_Limiarizacao.git
 ```
 
 2. Instale as dependências:
